@@ -6,5 +6,6 @@ namespace Model {
 	public ref class Class1
 	{
 		// TODO: Agregue aquí los métodos de esta clase.
+		//Clase de prueba
 	};
 }
